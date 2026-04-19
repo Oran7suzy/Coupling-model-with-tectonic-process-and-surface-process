@@ -80,7 +80,8 @@ Users may modify parameters in the Fortran code to reproduce or extend the simul
 
 ---
 # 6. Citation
-If you use this model, please cite this repository (Zenodo DOI will appear here after release):
+If you use this model, please cite this repository:
+10.5281/zenodo.19654805
 
 ---
 # 7. Contact
